@@ -40,7 +40,7 @@ To run this locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/Random-Quote-Generator.git
+   git clone https://github.com/your-username/Random-Quote-Generator
    ```
 2. **Navigate to the folder:**
    ```sh
