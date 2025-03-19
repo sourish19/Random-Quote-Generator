@@ -21,7 +21,7 @@ Quote Generator is a web-based platform that provides randomly generated quotes 
 
 ## **Deployment Link**
 
-Access YTMasterJi here: [**Live Demo**](#)
+Access Live Demo here: [**Live Demo**](#)
 
 ## **Screenshots**
 
